@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: fonte;
+    src: url(BebasNeue-Regular.otf);
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-oficial {
+    position: relative;
+    top: 700px;
+    padding: 30px 50px;
+    background-color: rgb(228, 224, 2);
+}
+
+.direitos-autorais {
+    position: relative;
+    top: 6px;
+    font-family: fonte;
+    font-size: 20px;
+}
+
+
+body {
+    background-color: rgb(20,20,20);
+}
+
+.menu {
+    position: relative;
+    padding: 25px 50px;
+    background-color: rgb(228, 224, 2);
+}
+
+.logo {
+    position: absolute;
+    left: 100px;
+    top: 8px;
+    font-family: fonte;
+    color: rgb(20,20,20);
+    font-size: 30px;
+}
+
+.home {
+    position: absolute;
+    left: 290px;
+    top: 16px;
+    font-family: fonte;
+    color: rgb(20,20,20);
+    font-size: 18px;
+}
+
+.home:hover {
+    color: rgb(63, 63, 63);
+}
+
+.contato {
+    position: absolute;
+    left: 350px;
+    top: 16px;
+    font-family: fonte;
+    color: rgb(20,20,20);
+    font-size: 18px;
+}
+
+.contato:hover {
+    color: rgb(63, 63, 63);
+}
+
+.sobre {
+    position: absolute;
+    left: 425px;
+    top: 16px;
+    font-family: fonte;
+    color: rgb(20,20,20);
+    font-size: 18px;
+}
+
+.sobre:hover {
+    color: rgb(63, 63, 63);
+}
+
+.boas-vindas {
+    position: relative;
+    top: 260px;
+    font-size: 60px;
+    font-family: fonte;
+    color: rgb(228, 224, 2);
+}
+
+.down-arrow {
+    position: relative;
+    top: 410px;
+}
+
+.titulo-conteudo {
+    position: relative;
+    top: 570px;
+    font-family: fonte;
+    color: rgb(228, 224, 2);
+    font-size: 30px;
+}
+
+.conteudo {
+    position: relative;
+    top: 590px;
+}
+
+.aula1 {
+    position: relative;
+    top: 150px;
+}
+
+.aula1-titulo {
+    position: relative;
+    top: 100px;
+    font-family: fonte;
+    color: rgb(228, 224, 2);
+    font-size: 30px;
+}
+
+.left-arrow {
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+.sobre-destaque {
+    position: relative;
+    top: 200px;
+    font-size: 60px;
+    font-family: fonte;
+    color: rgb(228, 224, 2);
+}
+
+
